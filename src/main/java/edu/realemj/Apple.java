@@ -4,4 +4,8 @@ public class Apple {
 
     public Apple() {
     }
+
+    public String toString() {
+        return "apple";
+    }
 }
