@@ -9,4 +9,8 @@ public class Apple {
     public void yodel() {
         
     }
+
+    public String toString() {
+        return "apple";
+    }
 }
